@@ -61,7 +61,7 @@ Once the server is running, you can access the API endpoints from your Laravel a
 
 ## Team
 
-<img src="logo.png" width="300" height="200">
+<img src="Group 133670.png" width="300" height="200">
 
 - **Asmaa Zamee** - Back-end Developer
 - **Wajdan Al-Ayed** - Front-end Developer
