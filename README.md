@@ -7,7 +7,9 @@
 
 ![estronout Logo](https://github.com/user-attachments/assets/7cf5bc4c-7857-433d-bd14-a598c0348856)
 
-Welcome to the GitHub repository of **Breez**, crafted by the **Fresh Sight** team for the **HPC** hackathon. **Breez** is a system capable of being linked to any camera. This system detects litter or trash discarded from vehicles onto the street, documents it as an infraction, and alerts the driver. Additionally, relevant authorities can access this data and generate reports on the level of waste on Saudi streets.
+Welcome to the GitHub repository of **ساعِد (Sa'id)**, crafted by the Sa'id Team for the Estronout hackathon. 
+**ساعِد (Sa'id)** is a system designed to provide a seamless and supportive onboarding journey for new employees, enhancing their productivity and well-being using emerging technologies. 
+The platform aims to foster employee loyalty and sustainability within organizations by ensuring their growth and skills development.
 
 
 ## Description
