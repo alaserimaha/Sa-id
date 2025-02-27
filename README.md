@@ -7,14 +7,14 @@
 
 ![estronout Logo](https://github.com/user-attachments/assets/7cf5bc4c-7857-433d-bd14-a598c0348856)
 
-Welcome to the GitHub repository of **ساعِد (Sa'id)**, crafted by the Sa'id Team for the Estronout hackathon. 
+Welcome to the GitHub repository of **ساعِد (Sa'id)**, crafted by the Sa'id Team for the **Estronout** hackathon. 
 **ساعِد (Sa'id)** is a system designed to provide a seamless and supportive onboarding journey for new employees, enhancing their productivity and well-being using emerging technologies. 
 The platform aims to foster employee loyalty and sustainability within organizations by ensuring their growth and skills development.
 
 
 ## Description
 
-During our time with **HPC** hackathon, we worked on Breeze, a system capable of being linked to any camera. This system detects litter or trash discarded from vehicles onto the street, documents it as an infraction, and alerts the driver. Additionally, relevant authorities can access this data and generate reports on the level of waste on Saudi streets, all through "breeze".!
+During our time with the **Estronout** hackathon, we created **ساعِد (Sa'id)**—a comprehensive system to provide a customized onboarding experience for new employees. The system helps employees quickly adapt to their new environment, increasing their productivity and mental well-being. By integrating with HR systems and leveraging technologies such as Virtual Reality (VR) and AI, it creates a smooth transition, helping employees feel welcomed, empowered, and motivated. The platform also aids HR departments by streamlining employee onboarding and skill development processes.
 
 ## Features
 
@@ -28,7 +28,7 @@ During our time with **HPC** hackathon, we worked on Breeze, a system capable of
 
 ## Installation
 
-Breez consists of two main components: the app (built with Laravel) and the API (powered by Django). Below are the steps to set up the API.
+Sa'id consists of two main components: the app (built with Laravel) and the API (powered by Django). Below are the steps to set up the API.
 
 ### Prerequisites
 
