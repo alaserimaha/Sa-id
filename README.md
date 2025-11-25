@@ -12,6 +12,7 @@ Welcome to the GitHub repository of **ساعِد (Sa'id)**, crafted by the Sa'id
 The platform aims to foster employee loyalty and sustainability within organizations by ensuring their growth and skills development.
 
 
+
 ## Description
 
 During our time with the **Estronout** hackathon, we created **ساعِد (Sa'id)**—a comprehensive system to provide a customized onboarding experience for new employees. The system helps employees quickly adapt to their new environment, increasing their productivity and mental well-being. By integrating with HR systems and leveraging technologies such as Virtual Reality (VR) and AI, it creates a smooth transition, helping employees feel welcomed, empowered, and motivated. The platform also aids HR departments by streamlining employee onboarding and skill development processes.
